@@ -6,7 +6,7 @@ def outer_function():
     print("c", c)
   inner_func()
 
-a = 10
+a = 20
 b = 50
 print("a", a)
 outer_function()
